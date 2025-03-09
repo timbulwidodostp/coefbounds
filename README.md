@@ -1,6 +1,8 @@
 # coefbounds
 Nonparametric Bounds for Regression with Interval-Censored Outcomes Use coefbounds With (In) R Software
 
+https://www.youtube.com/watch?v=BG6Qj6PP9rg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
